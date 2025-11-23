@@ -7,6 +7,7 @@ This submission corresponds to Mileszone 1 of the project.
 
 
 Sources
+
 The following sources were used as inspiration:
 https://github.com/facebookresearch/flow_matching/blob/main/examples/2d_discrete_flow_matching.ipynb
 https://drscotthawley.github.io/blog/posts/FlowModels.html
